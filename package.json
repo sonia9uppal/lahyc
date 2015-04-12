@@ -1,0 +1,22 @@
+{
+  "name": "lahyc",
+  "version": "1.0.0",
+  "description": "Website of the Los Altos Hills Youth Commission",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sonia9uppal/lahyc.git"
+  },
+  "author": "sonia9uppal",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sonia9uppal/lahyc/issues"
+  },
+  "homepage": "https://github.com/sonia9uppal/lahyc",
+  "dependencies": {
+    "express": "^4.12.3"
+  }
+}
