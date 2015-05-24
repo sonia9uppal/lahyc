@@ -2,10 +2,15 @@
 /* DEFAULTS */
 /* –––––––––––––––––––––––––––––––––––––––––––––––––– */
 body {
-  font-family: "Raleway", sans-serif;
-  font-size: 16px;
+  /*font-family: "Raleway", sans-serif;*/
+  font-family: Maven Pro;
+  font-size: 21px;
   margin: 0;
   padding: 0;
+}
+
+title{
+    font-family:
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -167,7 +172,7 @@ input[type="button"].button-primary:focus {
 }
 
 .section2 {
-  background-image: url(http://static.panoramio.com/photos/original/20088384.jpg);
+  background-image: url(http://l3.picsurge.com/8UdL10/LAHYC-LeadershipConference-1.jpg);
   background-size: cover;
   background-position: top center;
   background-repeat: no-repeat;
@@ -175,7 +180,8 @@ input[type="button"].button-primary:focus {
 }
 
 .section3 {
-  background-image: url(http://upload.wikimedia.org/wikipedia/commons/f/f2/Westwind_Community_Barn_Los_Altos_Hills.jpg);
+  /*background-image: url(http://upload.wikimedia.org/wikipedia/commons/f/f2/Westwind_Community_Barn_Los_Altos_Hills.jpg);*/
+  background-image: url(http://l3.picsurge.com/8UdL10/gOSygbeOe8.jpg);
   background-size: cover;
   background-position: top center;
   background-repeat: no-repeat;
