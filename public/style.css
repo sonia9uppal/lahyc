@@ -13,7 +13,7 @@ title{
     font-family:
 }
 
-h1, h2, h3, h4, h5, h6 {
+h1, h2, h3, h4, h5, h6, h7 {
   color: #656565;
   margin-top: 0;
   margin-bottom: 2rem;
@@ -54,6 +54,15 @@ h6 {
   font-size: 1.5rem;
   line-height: 1.6;
   letter-spacing: 0;
+}
+
+h7 {
+    font-family: Arvo;
+    color: #ffffff;
+    font-size: 4rem;
+    line-height: 2;
+    letter-spacing: -0.1rem;
+    text-shadow: 2px 2px #ff0000;
 }
 
 p {
@@ -343,7 +352,7 @@ input[type="button"].button-primary:focus {
   z-index: 10;
 }
 
-.cta h1 {
+.cta h7 {
   color: #fff;
   font-weight: 500;
   text-shadow: 0px 0px 8px black;
