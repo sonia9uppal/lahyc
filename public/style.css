@@ -9,8 +9,10 @@ body {
   padding: 0;
 }
 
-title{
-    font-family:
+.title{
+    font-family: Arvo;
+    font-size: 35px;
+    color: #191970;
 }
 
 h1, h2, h3, h4, h5, h6, h7 {
@@ -19,6 +21,7 @@ h1, h2, h3, h4, h5, h6, h7 {
   margin-bottom: 2rem;
   font-weight: 700;
 }
+
 
 h1 {
   font-size: 4rem;
@@ -67,6 +70,7 @@ h7 {
 
 p {
   color: #656565;
+  font-family: Maven Pro;
 }
 
 hr {
@@ -318,6 +322,7 @@ input[type="button"].button-primary:focus {
 }
 
 .main-nav {
+    font-family: Maven Pro;
   font-size: 0.9em;
 }
 
