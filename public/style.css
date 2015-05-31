@@ -87,6 +87,9 @@ button,
 
 img {
   max-width: 100%;
+  -webkit-filter: grayscale(1);
+  filter: grayscale(1);
+  
 }
 
 .text-left {
